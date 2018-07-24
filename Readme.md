@@ -53,6 +53,6 @@ console.log(event)
 
 ## Todo:
 * [ ] Add unit tests
-* [ ] Add other event sources [Full List Here](https://docs.aws.amazon.com/lambda/latest/dg/eventsources.html)
+* [ ] Add other event sources (see [full list here](https://docs.aws.amazon.com/lambda/latest/dg/eventsources.html))
 * [ ] Create documentation
 * [ ] Creat an npm module
